@@ -1,0 +1,71 @@
+						ASSIGNMENT- MODERN HTML
+
+
+1-   List out the features of HTML
+
+Ans- HTML (Hypertext Markup Language) is the backbone of web content, offering a set of key features:
+1.	Text-Based: HTML uses text and tags to structure content.
+2.	Markup: It employs predefined tags to format and organize content.
+3.	Hierarchy: HTML arranges elements hierarchically for structured content.
+4.	Platform-Independent: HTML works on various devices and platforms.
+5.	Hyperlinks: Enables linking between web pages and resources.
+6.	Multimedia Support: Embeds images, audio, and video.
+7.	Forms: Provides form elements for user data submission.
+8.	Semantic Markup: HTML5 introduces semantic elements for meaning.
+9.	Document Structure: Consists of <head> (metadata) and <body> (content).
+10.	CSS Integration: Combines with CSS for styling.
+11.	Scripting Support: Allows interactivity via JavaScript.
+12.	Comments: Supports comments for code documentation.
+13.	Accessibility: Provides features for web accessibility.
+14.	Responsive Design: Adapts content to different devices.
+15.	Extensible: Can be extended for dynamic applications.
+16.	Backward Compatibility: Maintains compatibility with older versions.
+17.	Open Standard: Developed collaboratively by the W3C.
+HTML evolves to meet the needs of modern web development while remaining an open, universal standard.
+
+
+2-   What are HTML Entities ? List out 5 commonly used HtML entities?
+
+Ans- HTML entities are special codes used to represent reserved characters, symbols, and characters with special meanings in HTML, ensuring they render correctly in web browsers.
+ They begin with an ampersand (&) and end with a semicolon (;). Here are five commonly used HTML entities:
+1.	&lt; - Represents the less-than sign ("<").
+2.	&gt; - Represents the greater-than sign (">").
+3.	&amp; - Represents the ampersand itself ("&").
+4.	&quot; - Represents double quotation marks (").
+5.	&apos; - Represents single quotation marks (apostrophes) (').
+HTML entities are crucial for displaying characters that may otherwise be misinterpreted as HTML tags or code.
+They are especially important when working with user-generated content, ensuring that user input is displayed safely and accurately on web pages.
+ 
+
+3-   Define accessibility in the context of web development. Discuss why it's essential to create accessible websites and how it benefits different user groups.
+
+Ans- Accessibility in web development refers to the practice of designing and building websites and web applications in a way that ensures equal access and usability for all users, including those with disabilities.
+It involves creating digital content that can be perceived, navigated, and interacted with by individuals with various impairments, such as visual, auditory, motor, or cognitive disabilities.
+Accessibility is essential for several reasons:
+1.	Inclusivity: It promotes inclusivity, allowing people of all abilities to access and interact with online content.
+2.	Legal Compliance: Many countries have laws and regulations (e.g., the Americans with Disabilities Act in the U.S.) that require websites to be accessible to all users.
+3.	Enhanced User Experience: Improving accessibility often leads to a better user experience for everyone, not just those with disabilities.
+4.	Expanded Audience: Accessible websites can reach a broader audience, potentially increasing traffic and engagement.
+5.	Ethical Responsibility: Ensuring accessibility is a matter of ethical responsibility, as the web has become a fundamental part of modern life.
+Accessibility benefits various user groups, including:
+•	Visually Impaired Users: Screen readers and Braille displays can interpret content, making it accessible through audio or tactile output.
+•	Hearing-Impaired Users: Captions and transcripts for multimedia content ensure information is available via text.
+•	Motor-Impaired Users: Keyboard navigation and other assistive technologies make it easier to interact with websites.
+•	Cognitive Disabilities: Clear and consistent design, with simple navigation, benefits users with cognitive impairments.
+•	Aging Population: As the population ages, accessible design becomes increasingly important for those with age-related impairments.
+Creating accessible websites is not only a legal requirement but also a way to provide equal opportunities and a better online experience for everyone, regardless of their abilities.
+ 
+
+4-   List any 3 ways which help us in improving the accessibility of HTML.
+Ans- Improving the accessibility of HTML is crucial for ensuring that web content is usable by individuals with disabilities. Here are three key ways to enhance HTML accessibility:
+1.	Semantic HTML Elements: Use semantic HTML elements (e.g., <header>, <nav>, <main>, <article>, <section>, <aside>, <footer>) to provide meaningful structure to your content.
+2.	Alternative Text for Images: Always include descriptive alt attributes in <img> tags to provide alternative text for images. 
+3.	Keyboard Accessibility: Ensure that all interactive elements (e.g., links, buttons, form fields) are navigable and operable using a keyboard.	
+These practices are fundamental in making web content more accessible, benefiting users with disabilities and improving overall usability for all visitors.
+ 
+5-    Create a web page that highlights the features of HTML. Use appropriate semantic tags to structure the content and showcase at least three key features of HTML with explanation.
+6-   Create a simple web page which has a table. the table must have 2 columns HTML and HTML5. The table should include a minimum of three rows describing the differences between HTML and HTML5.
+Ans- Solution of 5 and 6 is in the attached folders
+
+                    	
+
